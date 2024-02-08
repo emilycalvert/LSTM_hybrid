@@ -1,7 +1,7 @@
 # Supervised Hybrid LSTM RNN for Humidity Forecasting
 
 ## About the Project
-This repository contains a machine learning project focused on forecasting absolute humidity in San Diego using a Supervised Hybrid Production-Level Long Short Term Memory (LSTM) Recurrent Neural Network. The project aims to predict next-day humidity based on current weather parameters, showcasing advanced techniques in time-series analysis and neural network optimization.
+This repository contains a machine learning project focused on forecasting absolute humidity in San Diego using a Supervised Hybrid Production-Level Long Short Term Memory (LSTM) Recurrent Neural Network. The project aims to predict next-day humidity based on current weather parameters, showcasing advanced techniques in time-series analysis and neural network optimization. This project was not completed but contains function that I have recycled for future neural networks optimization and helped with decision making during construction.
 
 ## Skills Demonstrated
 - **Time Series Forecasting**: Employing LSTM networks to model and predict weather patterns.
